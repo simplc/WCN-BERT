@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 
 ## 1. Data
 
-We conduct our experiments on a benchmark SLU dataset, **DSTC2**. Origin data can be obtained [HERE](http://camdial.org/~mh521/dstc/).
+We conduct our experiments on a benchmark SLU dataset, **DSTC2**. Origin data can be obtained [HERE](https://github.com/matthen/dstc).
 
 - Data preprocessing:
     ```bash
